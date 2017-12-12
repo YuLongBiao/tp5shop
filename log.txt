@@ -3,3 +3,5 @@
 ²»¶®µÃ
 
 ×¢²áfile_put_contents("./1.log",file_get_contents("php://input")."\n",FILE_APPEND);
+
+123
